@@ -1,0 +1,38 @@
+1-Dibujar Línea
+
+x1: 100
+y1: 100
+x2: 300
+y2: 300
+Color: rojo
+
+
+2-Dibujar Cuadrado
+
+x: 200
+y: 200
+Lado: 100
+Color: azul
+
+3-Dibujar Rectángulo
+
+x: 150
+y: 150
+Ancho: 200
+Alto: 100
+Color: verde
+
+4-Dibujar Círculo
+
+x: 400
+y: 300
+Radio: 50
+Color: amarillo
+
+5-Dibujar Óvalo
+
+x: 400
+y: 300
+Radio Mayor: 100
+Radio Menor: 50
+Color: naranja
